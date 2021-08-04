@@ -1,0 +1,3 @@
+[submodule "gitsubmod"]
+	path = gitsubmod
+	url = https://github.com/baladevopsconsultant/gitsubmod.git
